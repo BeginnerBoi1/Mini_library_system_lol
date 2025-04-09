@@ -1,0 +1,14 @@
+Title;Author;Description
+Harry Potter;J.K. Rowling;A young wizard, Harry Potter, discovers his magical heritage and faces the dark forces threatening the wizarding world.
+Hello, Love, Goodbye;Emman;Looooool
+The Hobbit;J.R.R. Tolkien;Bilbo Baggins embarks on an adventure with dwarves to reclaim their homeland from a fearsome dragon.
+Pride and Prejudice;Jane Austen;Elizabeth Bennet navigates love, societal expectations, and personal growth in early 19th-century England.
+1984;George Orwell;A dystopian novel depicting a world dominated by surveillance, totalitarianism, and thought control.
+The Great Gatsby;F. Scott Fitzgerald;The mysterious Jay Gatsby pursues wealth and love in the Roaring Twenties.
+To Kill a Mockingbird;Harper Lee;Atticus Finch defends a black man unjustly accused in a racially divided Southern town.
+Moby-Dick;Herman Melville;Captain Ahab obsessively hunts the elusive white whale, Moby Dick.
+The Catcher in the Rye;J.D. Salinger;Teenager Holden Caulfield struggles with alienation and growing up in a complex world.
+Brave New World;Aldous Huxley;A future society is controlled by technological advancements and a rigid caste system.
+The Lord of the Rings;J.R.R. Tolkien;A quest to destroy a powerful ring and prevent evil from conquering Middle-earth.
+Alice's Adventures in Wonderland;Lewis Carroll;Alice falls into a surreal world filled with peculiar creatures and mind-bending logic.
+Sherlock Holmes: A Study in Scarlet;Arthur Conan Doyle;Sherlock Holmes solves a murder mystery with his keen deductive reasoning.
