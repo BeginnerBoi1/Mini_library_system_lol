@@ -1,0 +1,69 @@
+------------------------------------------WINGSTON LIBRARY------------------------------------------
+[Borrower's name]                                                                             [Time]
+emman                                                                                02:12:25.262639
+                                   --------- BORROWED 1 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+Harry Potter                                                                            J.K. Rowling
+
+[Description]
+A young wizard, Harry Potter, discovers his magica
+l heritage and faces the dark forces threatening t
+he wizarding world.
+
+                                   --------- BORROWED 2 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+Hello, Love, Goodbye                                                                           Emman
+
+[Description]
+Looooool
+
+                                   --------- BORROWED 3 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+Pride and Prejudice                                                                      Jane Austen
+
+[Description]
+Elizabeth Bennet navigates love, societal expectat
+ions, and personal growth in early 19th-century En
+gland.
+
+                                   --------- BORROWED 4 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+The Great Gatsby                                                                 F. Scott Fitzgerald
+
+[Description]
+The mysterious Jay Gatsby pursues wealth and love 
+in the Roaring Twenties.
+
+                                   --------- BORROWED 5 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+1984                                                                                   George Orwell
+
+[Description]
+A dystopian novel depicting a world dominated by s
+urveillance, totalitarianism, and thought control.
+
+                                   --------- BORROWED 6 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+Pride and Prejudice                                                                      Jane Austen
+
+[Description]
+Elizabeth Bennet navigates love, societal expectat
+ions, and personal growth in early 19th-century En
+gland.
+
+                                   --------- BORROWED 7 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+Harry Potter                                                                            J.K. Rowling
+
+[Description]
+A young wizard, Harry Potter, discovers his magica
+l heritage and faces the dark forces threatening t
+he wizarding world.
+
+                                   --------- BORROWED 8 ---------                                   
+[Book_Borrowed]                                                                        [Book_Author]
+Alice's Adventures in Wonderland                                                       Lewis Carroll
+
+[Description]
+Alice falls into a surreal world filled with pecul
+iar creatures and mind-bending logic.
